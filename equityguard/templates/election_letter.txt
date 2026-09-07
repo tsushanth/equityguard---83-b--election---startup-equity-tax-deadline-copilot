@@ -1,0 +1,52 @@
+ELECTION TO INCLUDE VALUE OF RESTRICTED PROPERTY IN GROSS INCOME
+IN YEAR OF TRANSFER PURSUANT TO SECTION 83(b) OF THE
+INTERNAL REVENUE CODE
+
+The undersigned taxpayer hereby elects, pursuant to Section 83(b) of the
+Internal Revenue Code of 1986, as amended, to include in gross income the
+excess (if any) of the fair market value of the property described below
+over the amount paid for such property, as of the date the property was
+transferred to the undersigned.
+
+1. TAXPAYER INFORMATION
+   Name: {name}
+   Taxable Year: {taxable_year}
+
+2. DESCRIPTION OF PROPERTY
+   {shares} shares of common stock of {company}
+
+3. DATE OF TRANSFER
+   {grant_date}
+
+4. RESTRICTIONS
+   The shares are subject to a vesting schedule and are subject to
+   forfeiture and restrictions on transfer until vested.
+
+5. FAIR MARKET VALUE AT TIME OF TRANSFER
+   Fair market value per share: ${fmv_per_share}
+   Total fair market value: ${total_fmv}
+
+6. AMOUNT PAID FOR PROPERTY
+   Amount paid per share: ${price_paid_per_share}
+   Total amount paid: ${total_price_paid}
+
+7. TAXABLE INCOME
+   The excess of fair market value over amount paid, includible in gross
+   income for the taxable year of transfer: ${taxable_income}
+
+The undersigned taxpayer will file this election with the Internal Revenue
+Service office with which the taxpayer files his or her annual income tax
+return, not later than 30 days after the date of transfer of the property
+described above. A copy of this election has been furnished to
+{company}, the person for whom the services were performed. The
+undersigned taxpayer will also submit a copy of this election with his or
+her income tax return for the taxable year in which the property was
+transferred.
+
+Filing deadline (30 days after transfer): {deadline}
+
+Dated: {grant_date}
+
+_______________________________
+{name}
+Taxpayer

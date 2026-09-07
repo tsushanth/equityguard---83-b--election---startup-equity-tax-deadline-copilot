@@ -1,0 +1,31 @@
+INTERNAL REVENUE SERVICE SUBMISSION COVER SHEET
+Section 83(b) Election
+
+Prepared by EquityGuard on: {generated_at}
+
+TO: Internal Revenue Service
+    (address of the IRS Service Center for the taxpayer's place of
+    residence -- confirm current mailing address at irs.gov before
+    sending, as Service Center addresses change)
+
+FROM: {name}
+      c/o {company}
+
+RE:   Section 83(b) Election for restricted stock grant dated
+      {grant_date}
+
+Enclosed please find one (1) original executed copy of a Section 83(b)
+election with respect to {shares} shares of restricted common stock of
+{company} granted to the undersigned on {grant_date}.
+
+This submission must be postmarked no later than: {deadline}
+
+Per IRS guidance, this election is being sent via certified mail with
+return receipt requested so that proof of timely filing (postmark date)
+is retained by the taxpayer.
+
+Enclosures:
+  1. Executed Section 83(b) election letter (1 copy)
+
+_______________________________
+{name}
